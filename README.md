@@ -3,8 +3,8 @@
 <p><em>Software Engineer at <a href="#">METECH</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://)
-[![Linkedin: thaianebraga](https:)](https://www.linkedin.com/in/ImSSRahman/)
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/ImSSRahman/)
 
 👇 Hit in your console or terminal to connect with me.
 
