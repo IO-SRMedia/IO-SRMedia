@@ -38,7 +38,7 @@ const shamiur = {
 };
 ```
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ImSSRahman/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
