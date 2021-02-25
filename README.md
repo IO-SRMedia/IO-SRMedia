@@ -19,7 +19,7 @@ const shamiur = {
     code: ["Javascript", "Typescript", "Python", "MongoDB","ExpressJS","NodeJS"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
-        mobileApp: ["REact Native"],
+        mobileApp: ["React Native"],
         frontEnd: {
             js: ["ReactJS", "Flutter"],
             css: ["materialize", "React", "bootstrap","Material-UI"]
