@@ -33,7 +33,7 @@ const shamiur = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Attendance System with Face Recognition with Temperature",
+    currentProject: "I am developing Attendance System with Face Recognition and Temperature Web Application",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
