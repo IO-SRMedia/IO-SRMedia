@@ -33,7 +33,7 @@ const shamiur = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing Attendance System with Face Recognition with Temperature",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
